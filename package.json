@@ -1,0 +1,23 @@
+{
+  "name": "candle-bitcointrade",
+  "version": "1.0.0",
+  "description": "A candle chart for bitcointrade",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flpms/candle-bitcointrade.git"
+  },
+  "author": "@flpms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flpms/candle-bitcointrade/issues"
+  },
+  "homepage": "https://github.com/flpms/candle-bitcointrade#readme",
+  "devDependencies": {
+    "browserify": "^16.1.0",
+    "http-server": "^0.11.1"
+  }
+}
